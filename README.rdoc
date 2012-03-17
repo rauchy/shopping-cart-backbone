@@ -1,0 +1,12 @@
+== Shopping Cart (Backbone.js) Edition
+
+This is a very simple demo I made for spiking Backbone.js and Ember.js.
+
+=== Installation
+
+Clone the repo and run the following commands:
+
+$ bundle install
+$ rake db:migrate
+$ rake db:seed
+$ rails server

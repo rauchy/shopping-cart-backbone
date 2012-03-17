@@ -1,0 +1,2 @@
+<h4>Description for <%= @model.get('name') %></h4>
+<p><%= @model.get('description') %></p>
